@@ -33,7 +33,7 @@
 
 ## Datasets
 
-- [OmniDocBench](https://arxiv.org/abs/2412.07626) - CVPR 2025, 1355 PDF pages, 9 document types, 15 block-level and 4 span-level annotations [![GitHub stars](https://img.shields.io/github/stars/opendatalab/OmniDocBench.svg?logo=github&label=Stars)](https://github.com/opendatalab/OmniDocBench)
+- [OmniDocBench](https://arxiv.org/abs/2412.07626) - 1355 PDF pages, 9 document types, 15 block-level and 4 span-level annotations [![GitHub stars](https://img.shields.io/github/stars/opendatalab/OmniDocBench.svg?logo=github&label=Stars)](https://github.com/opendatalab/OmniDocBench)
 
 - [DocVQA](https://arxiv.org/abs/2007.00398) - 50,000 questions on 12,000+ document images for Visual Question Answering
 
