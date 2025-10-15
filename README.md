@@ -9,7 +9,7 @@
 
 **2025**
 
-- PaddleOCR-VL [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR.svg?logo=github&label=Stars)](https://github.com/PaddlePaddle/PaddleOCR) 👍 👍
+- PaddleOCR-VL: : Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model [[paper]]() [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR.svg?logo=github&label=Stars)](https://github.com/PaddlePaddle/PaddleOCR) 👍 👍
 
 - MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing [[paper]](https://arxiv.org/abs/2509.22186) [![GitHub stars](https://img.shields.io/github/stars/opendatalab/MinerU.svg?logo=github&label=Stars)](https://github.com/opendatalab/MinerU) 👍 
 
